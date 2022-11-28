@@ -1,0 +1,23 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(images/anh1.jpg);
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(images/anh2.jpg);
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(images/anh3.jpg);
+}
+
+/* .carousel-caption {
+  width: 100%;
+  height: 100%;
+  left: 0;
+} */
